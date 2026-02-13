@@ -7,9 +7,3 @@ __pycache__/
 
 # VS Code
 .vscode/
-
-# Models
-*.pkl
-
-# Data files (optional)
-*.csv
